@@ -2,7 +2,7 @@
 
 **Mix.Bio protocol version 1.0**
 
-The OT.One Liquid Transfer Robot utilizes a JSON file as input in order to execute a specific liquid transfer protocol.  The specific steps and parameters comprising the protocol are specified in name/value fields within the JSON file.  This document provides an annotated example protocol file to aid the user in understanding and construction a protocol file.  At the highest level of the hierarchical file structure, there are 5 sections:  info, deck, head, ingredients, instructions.
+The OT.One Liquid Transfer Robot utilizes a JSON file as input in order to execute a specific liquid transfer protocol.  The specific steps and parameters comprising the protocol are specified in name/value fields within the JSON file.  This document provides an annotated example protocol file to aid the user in the understanding and construction of a protocol file.  At the highest level of the hierarchical file structure, there are 5 sections:  info, deck, head, ingredients, instructions.
 
 The info section provides fields for the user to specify information about the protocol run that the JSON file represents.
 
